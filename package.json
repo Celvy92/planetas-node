@@ -1,0 +1,11 @@
+{
+  "name": "planetas-node",
+  "version": "1.0.0",
+  "description": "Proyecto de planetas favoritos con Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Celvy92",
+  "license": "ISC"
+}
